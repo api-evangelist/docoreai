@@ -64,5 +64,120 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-DoCoreAI is a company surfaced via the API Evangelist harvest backlog (source: g2-catalog) and added to the network as a stub for full-pipeline profiling.
-- https://docoreai.com/
+DoCoreAI provides an autonomous AI cost governance platform that reduces LLM API expenses by 40–70% in real time. It offers privacy‑first monitoring, token budgeting, and predictive spend control without logging prompts. Targeted at SaaS teams and AI‑native companies, DoCoreAI integrates via a Python package, works alongside applications, and supports major LLM providers such as OpenAI, Anthropic, Google Gemini, Groq, AWS Bedrock, and Ollama.
+
+**Areas:** Company · AI Governance · Cost Management · LLM · Software-as-a-Service
+
+## DoCoreAI on APIs.io
+
+Everything profiled for DoCoreAI is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/docoreai/](https://apis.io/providers/docoreai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [DoCoreAI Chat Completions API](https://apis.io/apis/docoreai/docoreai-chat-completions-api/) — The Chat Completions API from DoCoreAI — 1 operation(s) for chat completions.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [PostV1ChatCompletionsRequest](https://apis.io/schemas/docoreai/docoreai-post-v1-chat-completions-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Docoreai Context](https://apis.io/jsonld/docoreai/docoreai-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [DoCoreAI API Rules](https://apis.io/rules/docoreai/docoreai-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Docoreai Domain Security](https://apis.io/security/docoreai/docoreai-domain-security/)
+- [Docoreai Trust Center](https://apis.io/security/docoreai/docoreai-trust-center/)
+- [Docoreai Vulnerability Disclosure](https://apis.io/security/docoreai/docoreai-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Docoreai Plans Pricing](https://apis.io/plans/docoreai/docoreai-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://docoreai.com/)
+- [Documentation](https://docoreai.com/docs/)
+- [Getting started](https://docoreai.com/docs/)
+- [Pricing](https://docoreai.com/pricing/)
+- [Support](https://docoreai.com/contact-us)
+- [Blog](https://docoreai.com/blog/)
+- [Security](https://docoreai.com/security)
+- [Compliance](https://docoreai.com/security/)
+- [Terms of service](https://docoreai.com/terms-of-service)
+- [Privacy policy](https://docoreai.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 44.1** — developing · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 73.2 |
+| Contract quality | 17.8 |
+| Contract governance | 35.6 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 35.7 |
+| Access clarity | 92.1 |
+
+**Agent readiness 12.9** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 27.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/docoreai/](https://apis.io/providers/docoreai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for DoCoreAI: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/docoreai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
